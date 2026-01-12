@@ -3,6 +3,9 @@
 
 🌐 **Portfolio:** [Visit my portfolio](https://own-portfolio-theta.vercel.app/)
 
+🧠 Coding Profiles:
+- Code360 (Coding Ninjas): [Code360](https://www.naukri.com/code360/profile/Debuu)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debojyoti-bose-it) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:debojyotibose4@gmail.com)
 
